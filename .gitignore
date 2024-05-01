@@ -1,0 +1,9 @@
+data
+Attendance
+NA
+output
+training
+validation
+/model.ipynb
+/test.jpg
+/test.py
