@@ -1,4 +1,4 @@
-data
+data/faces_data.pkl
 NA
 output
 training
@@ -6,3 +6,6 @@ validation
 /model.ipynb
 /test.jpg
 /test.py
+.env
+Attendance/attendamce.csv
+.venv
